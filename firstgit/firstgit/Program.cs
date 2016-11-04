@@ -10,6 +10,7 @@ namespace firstgit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("testing code");
             Console.Read();
         }
     }
